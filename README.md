@@ -1,3 +1,5 @@
+![Project Banner](1.png)
+
 # 🏸 Topological Data Analysis of Shuttlecock Motion
 
 This project investigates shuttlecock bounce dynamics using **Finite Element Method (FEM)** simulations and **Topological Data Analysis (TDA)**—with a focus on **Persistent Homology**.
