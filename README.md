@@ -1,4 +1,4 @@
-![Project Banner](1.png)
+![Project Banner](2.png)
 
 # 🏸 Topological Data Analysis of Shuttlecock Motion
 
